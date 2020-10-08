@@ -1,11 +1,11 @@
 <?php
 
-class owo
+class triggerwords
 {
 	
 	function __construct() //init
 		{
-		$data = "{'name' : 'owo', 'description' : 'UwU!', 'commandDescriptions' : []}";
+		$data = "{'name' : 'TriggerWords', 'description' : 'Replies to your messages with trigger words. Example: when you say uwu the bot replies owo', 'commandDescriptions' : []}";
 		return $data;
 		}
 	
