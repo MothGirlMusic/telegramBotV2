@@ -1,8 +1,8 @@
 <?php
 
-$token = '23456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11';
+$token = '1065732913:AAGQSwO8FMn4QHSxcWdgeh18OY6-StDsKQ4';
 $language_code = 'en';
 
-$botName = 'testi';
+$botName = 'moffbot';
 
 ?>
