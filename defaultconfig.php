@@ -1,8 +1,8 @@
 <?php
 
-$token = '1065732913:AAGQSwO8FMn4QHSxcWdgeh18OY6-StDsKQ4';
+$token = 'YOUR_TELEGRAM_TOKEN_HERE';
 $language_code = 'en';
 
-$botName = 'moffbot';
+$botName = 'YOU_BOTS_NAME_HERE';
 
 ?>
