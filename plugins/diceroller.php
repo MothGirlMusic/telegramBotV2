@@ -1,6 +1,6 @@
 <?php
 
-include('include/dice-roller/Factory.php');
+//include('include/dice-roller/Factory.php');
 
 class diceroller
 {
